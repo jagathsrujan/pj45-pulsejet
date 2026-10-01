@@ -1,0 +1,10 @@
+# Local research archive — third-party copyrighted material (plans, papers,
+# forum captures). Not redistributable; kept out of the public repo.
+research/
+
+# Tooling / OS
+.commandcode/
+.DS_Store
+
+# FreeCAD backup files
+*.FCBak
